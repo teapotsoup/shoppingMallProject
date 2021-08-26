@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shoppingMallProject/static/css/main.a53b9e23.chunk.css",
-    "main.js": "/shoppingMallProject/static/js/main.cd281572.chunk.js",
-    "main.js.map": "/shoppingMallProject/static/js/main.cd281572.chunk.js.map",
-    "runtime-main.js": "/shoppingMallProject/static/js/runtime-main.fce1248d.js",
-    "runtime-main.js.map": "/shoppingMallProject/static/js/runtime-main.fce1248d.js.map",
-    "static/js/2.056deaa8.chunk.js": "/shoppingMallProject/static/js/2.056deaa8.chunk.js",
-    "static/js/2.056deaa8.chunk.js.map": "/shoppingMallProject/static/js/2.056deaa8.chunk.js.map",
-    "static/js/3.9d50fda5.chunk.js": "/shoppingMallProject/static/js/3.9d50fda5.chunk.js",
-    "static/js/3.9d50fda5.chunk.js.map": "/shoppingMallProject/static/js/3.9d50fda5.chunk.js.map",
+    "main.css": "/shoppingMallProject/static/css/main.8b1c3c77.chunk.css",
+    "main.js": "/shoppingMallProject/static/js/main.6baeb64d.chunk.js",
+    "main.js.map": "/shoppingMallProject/static/js/main.6baeb64d.chunk.js.map",
+    "runtime-main.js": "/shoppingMallProject/static/js/runtime-main.076924cc.js",
+    "runtime-main.js.map": "/shoppingMallProject/static/js/runtime-main.076924cc.js.map",
+    "static/js/2.b0731c77.chunk.js": "/shoppingMallProject/static/js/2.b0731c77.chunk.js",
+    "static/js/2.b0731c77.chunk.js.map": "/shoppingMallProject/static/js/2.b0731c77.chunk.js.map",
+    "static/js/3.0f6ac133.chunk.js": "/shoppingMallProject/static/js/3.0f6ac133.chunk.js",
+    "static/js/3.0f6ac133.chunk.js.map": "/shoppingMallProject/static/js/3.0f6ac133.chunk.js.map",
     "index.html": "/shoppingMallProject/index.html",
-    "static/css/main.a53b9e23.chunk.css.map": "/shoppingMallProject/static/css/main.a53b9e23.chunk.css.map",
-    "static/js/2.056deaa8.chunk.js.LICENSE.txt": "/shoppingMallProject/static/js/2.056deaa8.chunk.js.LICENSE.txt",
+    "static/css/main.8b1c3c77.chunk.css.map": "/shoppingMallProject/static/css/main.8b1c3c77.chunk.css.map",
+    "static/js/2.b0731c77.chunk.js.LICENSE.txt": "/shoppingMallProject/static/js/2.b0731c77.chunk.js.LICENSE.txt",
     "static/media/App.css": "/shoppingMallProject/static/media/background.739617fe.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fce1248d.js",
-    "static/js/2.056deaa8.chunk.js",
-    "static/css/main.a53b9e23.chunk.css",
-    "static/js/main.cd281572.chunk.js"
+    "static/js/runtime-main.076924cc.js",
+    "static/js/2.b0731c77.chunk.js",
+    "static/css/main.8b1c3c77.chunk.css",
+    "static/js/main.6baeb64d.chunk.js"
   ]
 }
